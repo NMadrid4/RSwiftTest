@@ -1,0 +1,13 @@
+/* 
+  Strings.strings
+  TestRSwift1
+
+  Created by Nicolas on 5/2/19.
+  Copyright © 2019 doapps. All rights reserved.
+*/
+
+firstTitle = "Titulo inicial";
+secondTitle = "Segundo titulo";
+mensajeerror = "";
+
+"nra-RD-8kr.text" = "HOLa";
